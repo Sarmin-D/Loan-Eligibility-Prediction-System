@@ -6,3 +6,6 @@
 ## Application Preview
 
 ![App Screenshot](screenshot.png)
+
+
+Dataset: Custom loan approval dataset containing 5000 customer records with financial and credit-related features used for model training and prediction. 📊✨
